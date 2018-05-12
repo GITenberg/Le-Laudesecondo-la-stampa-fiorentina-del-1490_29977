@@ -1,0 +1,40 @@
+_repo: Le-Laudesecondo-la-stampa-fiorentina-del-1490_29977
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Ferri, Giovanni
+    gutenberg_agent_id: '34286'
+    url: http://www.gutenberg.org/2009/agents/34286
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacopone, da Todi
+    aliases:
+    - Todi, Jacopone da
+    - Iacopone, da Todi
+    - Benedetti, Jacopo di
+    birthdate: 1230
+    deathdate: 1306
+    gutenberg_agent_id: '34285'
+    url: http://www.gutenberg.org/2009/agents/34285
+    wikipedia: http://it.wikipedia.org/wiki/Iacopone_da_Todi
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2009-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29977'
+  lccn: a16000774
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Le Laude
+
+  secondo la stampa fiorentina del 1490'
+url: http://www.gutenberg.org/ebooks/29977
